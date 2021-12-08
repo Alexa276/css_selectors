@@ -44,3 +44,9 @@ li a {
  div > strong {
     text-decoration: none;
 }
+
+/*6. Selectores de "hermano + hermano"*/
+
+li + li {
+    font-size: 200%;
+}
