@@ -50,3 +50,9 @@ li a {
 li + li {
     font-size: 200%;
 }
+
+/*7. Selectores por atributos*/
+
+a[href="CSScookbook.com"] {
+    text-decoration: none;
+}
