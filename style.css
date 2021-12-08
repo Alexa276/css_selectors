@@ -38,3 +38,9 @@ li a {
     El selector universal se representa con un asterisco (*), significa que todos
     los elementos se aplicara este estilo
     */
+  
+ /*5. Selectores de "padre > hijo"*/
+ 
+ div > strong {
+    text-decoration: none;
+}
