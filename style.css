@@ -28,3 +28,13 @@ h1 {
 li a {
     text-decoration: none;
 }
+
+/*4. Selector universal*/
+
+* {
+    font-family: verdana, arial, sans-serif;
+    }
+    /*
+    El selector universal se representa con un asterisco (*), significa que todos
+    los elementos se aplicara este estilo
+    */
