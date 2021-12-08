@@ -1,0 +1,61 @@
+    1  git--version
+    2  git --version
+    3  node --version
+    4  npm --version
+    5  npx --version
+    6  git config --global user.name "Alexa276"
+    7  git config --global user.email "AlexaReyesRojas02@gmail.com"
+    8  git config --global init.defaultBranch main
+    9  git config --global --list
+   10  history 
+   11  pwd
+   12  clear
+   13  ls
+   14  mkdir introbash
+   15  rmdir
+   16  rmdir introbash
+   17  gh
+   18  gh
+   19  gh
+   20  pwd
+   21  cd flexbox-garden
+   22  cd
+   23  cd "flexbox-garden"
+   24  cd escritorio 
+   25  git init
+   26  code .
+   27  git add .
+   28  git commit -m "css_selectores"
+   29  gh repo create
+   30  git push --set-upstream origin main
+   31  git add .
+   32  git commit -m "README"
+   33  git push
+   34  git add .
+   35  git commit -m "Embebido"
+   36  git push
+   37  git add .
+   38  git commit -m "Selector por nombre de etiqueta"
+   39  git push
+   40  git add .
+   41  git commit -m "Selector por ID"
+   42  git push
+   43  git add .
+   44  git commit -m "Selector decendente"
+   45  git push
+   46  git add .
+   47  git commit -m "Selector universal"
+   48  git push
+   49  git add .
+   50  git commit -m "Selectores de padre e hijo"
+   51  git push
+   52  git add .
+   53  git commit -m "Selectores de hermano hermano"
+   54  git push
+   55  git add .
+   56  git commit -m "Selectores por atributos"
+   57  git push
+   58  git add .
+   59  git commit -m "Selectores por clase"
+   60  git push
+   61  history > history.txt
